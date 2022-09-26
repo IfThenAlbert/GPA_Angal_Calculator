@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPA_Angal_Calculator</string>
+
+    <string-array name="grade_options">
+        <item>Select grade</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+</resources>
